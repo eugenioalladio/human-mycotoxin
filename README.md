@@ -12,11 +12,10 @@ The computations were carried out using the R version 4.0.2 (2020-06-22) -- "Tak
 If the mentioned packages are available under different version, the scripts should work as well, but the features of each package's implementation may modify the results slightly.
 
 The required R packages are:
-
-•	*tidyr*: a tool for working and edit the data (i.e. building pivot table converting the data between long and wide formats);
-•	*ggplot2*: a well-known library for the creation of straightforward graphs and plots;
-•	*mlr*: a library for Machine Learning, containing a large number of classification and regression models;
-•	*gridExtra*: a package to be used in combination with ggplot2 to arrange multiple grid-based plots and to prepare tables.
+ - *tidyr*: a tool for working and edit the data (i.e. building pivot table converting the data between long and wide formats);
+ - *ggplot2*: a well-known library for the creation of straightforward graphs and plots;
+ - *mlr*: a library for Machine Learning, containing a large number of classification and regression models;
+ - *gridExtra*: a package to be used in combination with ggplot2 to arrange multiple grid-based plots and to prepare tables.
 
 ## Scripts
 Under the **Scripts** directory, the below three subdirectories are assumed to exist:
