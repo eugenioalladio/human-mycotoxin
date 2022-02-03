@@ -1,9 +1,9 @@
 # human-mycotoxin-UGent
-These scripts accompany the paper: "INSERT TITLE"; they describe the multivariate data analysis approeaches employed for the evaluation of the collected data.
+These scripts accompany the paper: **"INSERT TITLE"**; they describe the multivariate data analysis approeaches employed for the evaluation of the collected data.
 
 ## Provided data
 The **'data' repository** contains the two input files used during the study for the calculations and the benchmark evaluations of Supervised Machine Learning models, in terms of classification (*'classification_data.csv'*) and regression (*'regression_data.csv'*). 
-Briefly, the collected datasets consisted of 20 volunteers (11 female and 9 male, within the age range of 21-61 years) divided into a control group (4 subjects, i.e., those volunteers taking a placebo solution) and a DON group (16 subjects, i.e., those volunteers taking DON). Further details about the collected data are availbale in the related paper entitled 'INSERT TITLE'.
+Briefly, the collected datasets consisted of 20 volunteers (11 female and 9 male, within the age range of 21-61 years) divided into a control group (4 subjects, i.e., those volunteers taking a placebo solution) and a DON group (16 subjects, i.e., those volunteers taking DON). Further details about the collected data are availbale in the related paper entitled **'INSERT TITLE'**.
 To ease the use of the scripts and the data, please download the Git folder manually.
 
 ## Getting started
